@@ -1,4 +1,59 @@
-*{
+/* Common style */
+
+* {
     padding: 0;
     margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
+
+/* Heading styles */
+header {
+    background: rgba(229, 84, 115, 0.10);
+    ;
+}
+
+.header {
+    width: 1440px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.heading-left {}
+
+.heading-title {
+    width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.header-description {
+    
+    width: 634px;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 20px 0;
+}
+
+.header-btn {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* Featured section style */
