@@ -377,4 +377,42 @@ header {
     font-size: 20px;
     font-weight: 700;
 }
+
 /* footer section style */
+footer {
+    height: 449px;
+    background: #111010;
+    color: white;
+    text-align: center;
+}
+.footer{
+    width: 1440px;
+    margin: auto;
+}
+.footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 625px;
+    margin:15px auto;
+}
+.copyright-section{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.shop{
+    color: white;
+}
+/* footer section finished */
