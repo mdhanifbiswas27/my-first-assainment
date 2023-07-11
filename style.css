@@ -290,3 +290,91 @@ header {
     font-size: 40px;
     font-weight: 800;
 }
+
+/* instragram section style */
+.instragram-section {
+    width: 1440px;
+    text-align: center;
+    margin: 60px auto;
+}
+
+.instra-section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.instra-sec-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 665px;
+    margin: 20px auto;
+}
+
+.insta-flower-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+/* subscribe section style */
+
+.Subscribe-section {
+    border-radius: 8px;
+    background: url("./Flower Asset/Rectangle 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    margin: 130px auto;
+    text-align: center;
+    align-items: center;
+}
+
+.sub-sec-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+    padding-bottom: 20px;
+}
+
+.subscription-facalities {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+.Subscribe-section input {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    margin: 15px auto;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 15px;
+}
+
+.subscribe-btn {
+    border-radius: 8px;
+    background: #E55473;
+    width: 150px;
+    height: 64px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+/* footer section style */
