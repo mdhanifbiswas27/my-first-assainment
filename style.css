@@ -22,8 +22,6 @@ header {
     padding-top: 30px;
 }
 
-.heading-left {}
-
 .heading-title {
     width: 708px;
     color: #272727;
@@ -33,7 +31,6 @@ header {
 }
 
 .header-description {
-
     width: 634px;
     flex-shrink: 0;
     color: rgba(39, 39, 39, 0.60);
@@ -53,6 +50,10 @@ header {
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
+}
+
+.heading-right img {
+    margin-bottom: -3px;
 }
 
 /* Featured section style */
@@ -120,7 +121,6 @@ header {
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-
 }
 
 .flower-cart3 img {
@@ -135,7 +135,6 @@ header {
     line-height: 35px;
     text-decoration-line: underline;
     margin-top: 35px;
-
 }
 
 /* service style */
@@ -150,7 +149,6 @@ header {
     width: 1440px;
     height: 320px;
     align-items: center;
-
 }
 
 .service img {
@@ -171,7 +169,6 @@ header {
     margin: auto;
     color: rgba(39, 39, 39, 0.05);
 }
-
 
 /* Best selling product */
 .best-selling-flowers {
@@ -237,7 +234,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    /* text-align: center; */
     margin: auto;
 }
 
@@ -265,7 +261,6 @@ header {
 
 .section-right {
     width: 40%;
-
 }
 
 .section-right img {
@@ -320,7 +315,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 /* subscribe section style */
@@ -371,7 +365,7 @@ header {
     border-radius: 8px;
     background: #E55473;
     width: 150px;
-    height: 64px;
+    height: 62px;
     border: none;
     color: #FFF;
     font-size: 20px;
